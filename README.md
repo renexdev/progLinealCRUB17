@@ -12,22 +12,22 @@ email: reneczech@gmail.com
 
 ## Contenido de la materia
 
-###Unidad 1.
+### Unidad 1.
 Introducción al lenguaje de programación Python
 
-###Unidad 2. 
+### Unidad 2. 
 Introducción al modelado matemático
 
-###Unidad 3. 
+### Unidad 3. 
 Método Simplex
 
-###Unidad 4. 
+### Unidad 4. 
 Análisis de sensibilidad
 
-###Unidad 5. 
+### Unidad 5. 
 Dualidad en la programación Lineal
 
-###Unidad 6. 
+### Unidad 6. 
 Problemas de redes y otros métodos
 
 
